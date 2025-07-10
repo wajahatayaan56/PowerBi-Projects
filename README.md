@@ -18,7 +18,8 @@ An interactive Power BI dashboard that analyzes global YouTube data, including s
 
 ---
 📷 Dashboard Preview
-> (Add a screenshot or GIF of your dashboard here to showcase layout and visuals)
+> <img width="2607" height="1523" alt="1" src="https://github.com/user-attachments/assets/e261a40f-b836-4d0e-96ff-1c86d42dd511" />
+><img width="2610" height="1516" alt="2" src="https://github.com/user-attachments/assets/8249857e-8410-4560-b166-22799554d927" />
 
 ---
 ## 🛠 Tools & Technologies
